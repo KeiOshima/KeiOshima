@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KeiOshima
 - sophmore at NYU
 - Studying computer science 
-- 💞i'm looking to collaborate on anyhting. So long as I gain more experience and knowledge in computer science 
+- i'm looking to collaborate on anyhting. So long as I gain more experience and knowledge in computer science 
 - email: ko2091@nyu.edu
 - Linkedin: https://www.linkedin.com/in/kei-oshima-06a262215/
 
